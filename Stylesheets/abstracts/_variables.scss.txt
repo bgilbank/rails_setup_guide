@@ -1,0 +1,17 @@
+///// COLOUR VARIABLES
+
+///// FONT VARIABLES
+
+// Families
+
+// Weights
+
+// Sizes
+
+
+// RESPONSIVE VARIABLES
+
+$bp-largest: 75em; // 1200px viewport width: 1200/16 
+$bp-large: 62.5em; // 1000px viewport width: 1000/16 
+$bp-medium: 50em; // 800px viewport width: 800/16 
+$bp-small: 37.5em; // 600px viewport width: 600/16 

@@ -1,0 +1,7 @@
+# QUICK RAILS SET UP GUIDE
+
+This a quick set up guide for Rails applications. Copy these files into your new rails applicaiton.
+
+* Add the 7-1 css pattern
+* Rails Scaffold Templates
+* Custom Implementation of Bootstrap
